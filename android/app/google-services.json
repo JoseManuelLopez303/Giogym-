@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161939160864",
+    "project_id": "giogym-8822a",
+    "storage_bucket": "giogym-8822a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161939160864:android:2a126a88408a4495dfa145",
+        "android_client_info": {
+          "package_name": "com.example.giogym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161939160864-6vtoulephuto2vpbohonqac8mtad6kr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyYSPjW1kmh1l-6U5gWbs-KuoLoDE9k34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161939160864-6vtoulephuto2vpbohonqac8mtad6kr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
